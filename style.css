@@ -221,3 +221,8 @@ body {
     top: 110px;
   }
 }
+@media screen and (min-width: 100rem) {
+  html {
+    font-size: 22px;
+  }
+}
