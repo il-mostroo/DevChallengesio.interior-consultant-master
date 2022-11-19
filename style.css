@@ -197,7 +197,7 @@ body {
 }
 @media screen and (min-width: 81.25rem) {
   .wrap {
-    margin-bottom: 10rem;
+    padding-bottom: 8rem;
   }
   .wrap__title,
   .wrap__paragraph,
