@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://il-mostroo.github.io/DevChallengesio.interior-consultant-master/">
+    <a href="https://il-mostroo.github.io/DevChallengesio.interior-consultant-master/">
       Demo
     </a>
     <span> | </span>
